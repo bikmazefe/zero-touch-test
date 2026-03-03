@@ -1,0 +1,17 @@
+phrase:
+  file_format: yml
+  push:
+    sources:
+      - file: ./locales/en.yml
+        project_id: 42388391e69ab59163e5382a23be3875
+        params:
+          locale_id: en
+          mark_reviewed: true
+  pull:
+    targets:
+      - file: ./locales/<locale_name>.yml
+        project_id: 42388391e69ab59163e5382a23be3875
+        params:
+          use_last_reviewed_version: true
+          include_empty_translations: true
+          exclude_empty_zero_forms: true
