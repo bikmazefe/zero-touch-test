@@ -1,5 +1,5 @@
 ---
-en:
+en-US:
   general:
     back:
     cancel:
@@ -7,8 +7,8 @@ en:
     destroy:
     edit:
     new:
-  goodbye: Goodbye my old friend
-  hello: Hello
+  goodbye:
+  hello:
   layouts:
     application:
       about:
@@ -22,4 +22,4 @@ en:
       profile:
       sign_in:
       sign_up:
-  welcome: Welcome to our application my friend!
+  welcome:

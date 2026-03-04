@@ -1,2 +1,25 @@
 ---
-es: {}
+es:
+  general:
+    back:
+    cancel:
+    confirm:
+    destroy:
+    edit:
+    new:
+  goodbye:
+  hello:
+  layouts:
+    application:
+      about:
+      account:
+      app_store:
+      imprint:
+      logout:
+      my_mails:
+      press:
+      preview:
+      profile:
+      sign_in:
+      sign_up:
+  welcome:
