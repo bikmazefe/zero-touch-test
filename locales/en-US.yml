@@ -8,6 +8,7 @@ en-US:
     edit: Edit
     new: New
   hello: Hello world
+  new_key:
   layouts:
     application:
       about: About
