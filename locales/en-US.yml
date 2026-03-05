@@ -1,23 +1,23 @@
 ---
 en-US:
   general:
-    back: Back
-    cancel: Cancel
-    confirm: Are you sure?
-    destroy: Delete
-    edit: Edit
-    new: New
-  hello: Hello world
+    back:
+    cancel:
+    confirm:
+    destroy:
+    edit:
+    new:
+  hello:
   layouts:
     application:
-      about: About
-      account: Account
-      app_store: App Store
-      imprint: Imprint
-      logout: Logout
-      my_mails: My Mails
-      press: Press
-      preview: Preview
-      profile: Profile
-      sign_in: Login
-      sign_up: Register
+      about:
+      account:
+      app_store:
+      imprint:
+      logout:
+      my_mails:
+      press:
+      preview:
+      profile:
+      sign_in:
+      sign_up:
