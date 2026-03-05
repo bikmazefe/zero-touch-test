@@ -15,3 +15,4 @@ phrase:
           use_last_reviewed_version: true
           include_empty_translations: true
           exclude_empty_zero_forms: true
+          include_translated_keys: true
