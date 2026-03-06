@@ -3,8 +3,8 @@ es:
   general:
     back: Atrás
     cancel:
-    confirm:
-    destroy:
+    confirm: "¿Estás seguro? Esta acción no puede deshacerse."
+    destroy: "¿Borrar? Esta acción no puede deshacerse."
     edit:
     new:
   hello: Hola mundo, este es un archivo de prueba para PhraseApp.

@@ -3,8 +3,8 @@ en-US:
   general:
     back: Back
     cancel: Cancel
-    confirm: Are you sure?
-    destroy: Delete
+    confirm: Are you sure? This action cannot be undone.
+    destroy: Delete? This action cannot be undone.
     edit: Edit
     new: New
   hello: Hello world, this is a test file for PhraseApp.
