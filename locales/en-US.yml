@@ -7,7 +7,7 @@ en-US:
     destroy: Delete
     edit: Edit
     new: New
-  hello: Hello world
+  hello: Hello world, this is a test file for PhraseApp.
   layouts:
     application:
       about: About
