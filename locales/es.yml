@@ -3,7 +3,7 @@ es:
   general:
     back: Atrás
     cancel:
-    confirm:
+    confirm: "¿Estás seguro? Esta acción no puede deshacerse."
     destroy: "¿Borrar? Esta acción no puede deshacerse."
     edit:
     new:
