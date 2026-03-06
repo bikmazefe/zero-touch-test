@@ -15,9 +15,10 @@ en-US:
       app_store: App Store
       imprint: Imprint
       logout: Logout
-      my_mails: Show my Mails
+      my_mails: My Mails
       press: Press
       preview: Preview
       profile: Profile
       sign_in: Login
       sign_up: Register
+  new_key: This is a new key
