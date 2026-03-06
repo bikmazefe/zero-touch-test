@@ -4,7 +4,7 @@ en-US:
     back: Back
     cancel: Cancel
     confirm: Are you sure?
-    destroy: Delete
+    destroy: Delete? This action cannot be undone.
     edit: Edit
     new: New
   hello: Hello world, this is a test file for PhraseApp.
